@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Kind</key>
+	<string>Xcode.IDEFoundation.TextSubstitutionFileTemplateKind</string>
+	<key>Description</key>
+	<string>A VYPER module</string>
+	<key>Summary</key>
+	<string>A VYPER module</string>
+	<key>SortOrder</key>
+	<string>30</string>
+	<key>DefaultCompletionName</key>
+	<string>Click next</string>
+	<key>Options</key>
+	<array>
+		<dict>
+			<key>Definitions</key>
+			<dict>
+				<key>App</key>
+				<dict>
+					<key>Path</key>
+					<string>App/</string>
+				</dict>
+			</dict>
+			<key>Nodes</key>
+			<array>
+				<string>App</string>
+			</array>
+			<key>Description</key>
+			<string>Name of the Viper Module</string>
+			<key>NotPersisted</key>
+			<string>Yes</string>
+			<key>Identifier</key>
+			<string>moduleName</string>
+			<key>Name</key>
+			<string>Name of VYPER module:</string>
+			<key>Required</key>
+			<string>Yes</string>
+			<key>Type</key>
+			<string>text</string>
+		</dict>
+	</array>
+</dict>
+</plist>
