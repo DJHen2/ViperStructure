@@ -6,6 +6,6 @@
 
 ## How to use?
 
-![viper1](https://github.com/DJHen2/ViperStructure/tree/main/src/viper1.png)
-![viper3](https://github.com/DJHen2/ViperStructure/tree/main/src/viper2.png)
-![viper3](https://github.com/DJHen2/ViperStructure/tree/main/src/viper3.png)
+<img src="https://github.com/DJHen2/ViperStructure/tree/main/src/viper1.png" width="400px"/> 
+<img src="https://github.com/DJHen2/ViperStructure/tree/main/src/viper2.png" width="400px"/> 
+<img src="https://github.com/DJHen2/ViperStructure/tree/main/src/viper3.png" width="400px"/> 
