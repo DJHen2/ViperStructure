@@ -6,6 +6,6 @@
 
 ## How to use?
 
-<img src="https://github.com/DJHen2/ViperStructure/tree/main/src/viper1.png" width="400px"/> 
-<img src="https://github.com/DJHen2/ViperStructure/tree/main/src/viper2.png" width="400px"/> 
-<img src="https://github.com/DJHen2/ViperStructure/tree/main/src/viper3.png" width="400px"/> 
+<img src="https://raw.githubusercontent.com/DJHen2/ViperStructure/main/src/viper1.png" width="400px"/> 
+<img src="https://raw.githubusercontent.com/DJHen2/ViperStructure/main/src/viper2.png" width="400px"/> 
+<img src="https://raw.githubusercontent.com/DJHen2/ViperStructure/main/src/viper3.png" width="400px"/> 
