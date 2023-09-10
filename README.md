@@ -1,6 +1,6 @@
 ## How to install?
 
-1.- Download Vipper Pattern.
+1.- Download Viper Pattern.
 
 2.- copy in users/{user}/library/Developer/Xcode/Templates/
 
